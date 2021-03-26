@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Saludador
+comment0.text=\r\nEs\ un\ bot\ que\ me\ va\ a\ saludar\ \r\n\ \r\n\ @author\ (Victor\ Remy)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=nombre
+comment1.target=java.lang.String\ saludar(java.lang.String)
+numComments=2

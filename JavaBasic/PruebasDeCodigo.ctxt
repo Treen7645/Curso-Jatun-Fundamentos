@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=PruebasDeCodigo
+comment0.text=.\r\n\ Practica\ 3\ Jatun\:Evaluando\ expresiones\r\n\ \ \r\n\ Victor\ Sejas\ -Trren\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=double\ prueba1()
+comment2.params=
+comment2.target=boolean\ prueba2()
+comment3.params=
+comment3.target=boolean\ prueba3()
+comment4.params=
+comment4.target=double\ prueba4()
+comment5.params=
+comment5.target=boolean\ prueba5()
+comment6.params=
+comment6.target=void\ pruebas2()
+numComments=7

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Practica3Implementacion
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Practica3Implementacion\ here.\r\n\ \r\n\ @author\ (Victor\ Sejas-Treen)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=z
+comment1.target=int\ horasInPrimavera(int)
+comment10.params=numSeguidores\ numSeguidos
+comment10.target=int\ maxSeguidos(int,\ int)
+comment11.params=aguaEnGotero\ tiempoPorGota
+comment11.target=int\ aguaEnGotero(int,\ int)
+comment2.params=r
+comment2.target=int\ areDodecaedro(int)
+comment3.params=radio
+comment3.target=double\ circunferencia(int)
+comment4.params=pag
+comment4.target=int\ numHojas(int)
+comment5.params=a\ b\ c
+comment5.target=int\ ordenBca(int,\ int,\ int)
+comment6.params=a\ b\ c
+comment6.target=java.lang.String\ intercambio(int,\ int,\ int)
+comment7.params=p\ x\ n
+comment7.target=int\ bonoPoder(int,\ int,\ int)
+comment8.params=l
+comment8.target=char\ sigLetra(char)
+comment9.params=letra
+comment9.target=char\ sigLetra2(char)
+numComments=12

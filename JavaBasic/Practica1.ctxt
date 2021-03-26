@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Practica1
+comment0.text=\r\n\ Practica\ 1\ en\ lenguaje\ Java\r\n\ \r\n\ @Victor\ Sejas-Treen\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=int\ CalcularLongitudTriang()
+comment2.params=
+comment2.target=int\ CalcLongHoras()
+comment3.params=uJugar\ uRedS\ uVideo
+comment3.target=int\ BateriaRestante(int,\ int,\ int)
+comment4.params=
+comment4.target=int\ cantMaxCanc()
+comment5.params=numCarnet
+comment5.target=int\ maqVer(int)
+comment6.params=
+comment6.target=int\ reglas()
+numComments=7
