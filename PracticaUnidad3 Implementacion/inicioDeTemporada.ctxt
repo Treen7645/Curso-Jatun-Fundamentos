@@ -1,5 +1,5 @@
 #BlueJ class context
-comment0.target=inicioDeTemporada
+comment0.target=InicioDeTemporada
 comment0.text=\r\n\ Write\ a\ description\ of\ class\ a\ here.\r\n\ \r\n\ @author\ (Treen)\ \r\n\ @version\ (1.0)\r\n
 comment1.params=z
 comment1.target=int\ horasInPrimavera(int)

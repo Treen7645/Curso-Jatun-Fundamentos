@@ -4,7 +4,7 @@
  * @author (Treen) 
  * @version (1.0)
  */
-public class areaDodecaedro
+public class AreaDodecaedro
 {
       public int areDodecaedro(int r)//1 ≤ r ≤ 15445
     {        

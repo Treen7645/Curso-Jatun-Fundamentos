@@ -4,7 +4,7 @@
  * @author (Treen) 
  * @version (1.0)
  */
-public class ordenBca
+public class OrdenBca
 {
     public int ordenador(int a,int b,int c)//1 ≤ a, b, c ≤ 9
     {

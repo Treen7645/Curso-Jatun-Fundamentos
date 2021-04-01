@@ -4,7 +4,7 @@
  * @author (Treen) 
  * @version (1.0)
  */
-public class hojasUnicornioR
+public class HojasUnicornioR
 {
     public int numHojas(int pag)//N ≥ 1
     {

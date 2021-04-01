@@ -4,7 +4,7 @@
  * @author (Treen) 
  * @version (1.0)
  */
-public class gotero
+public class Gotero
 {
      public int aguaEnGotero(int aguaEnGotero, int tiempoPorGota){
         int res=aguaEnGotero-tiempoPorGota;

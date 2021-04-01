@@ -4,7 +4,7 @@
  * @author (Treen) 
  * @version (1.0)
  */
-public class intercambioDeLetras
+public class IntercambioDeLetras
 {
     public String intercambio(int a,int b,int c){
         int ax=a, bx=b, cx=c;

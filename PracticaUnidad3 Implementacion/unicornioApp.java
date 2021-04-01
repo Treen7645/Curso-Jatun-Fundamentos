@@ -4,7 +4,7 @@
  * @author (Treen) 
  * @version (1.0)
  */
-public class unicornioApp
+public class UnicornioApp
 {
      public int maxSeguidos(int numSeguidores,int numSeguidos){
         int res=(numSeguidores*3)-numSeguidos;

@@ -4,7 +4,7 @@
  * @author (Treen) 
  * @version (1.0)
  */
-public class poderMaximo
+public class PoderMaximo
 {
    public int bonoPoder(int p,int x,int n)//0 ≤ P ≤ 9,N ≤ X
     {

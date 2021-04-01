@@ -5,7 +5,7 @@
  * @author (Treen) 
  * @version (1.0)
  */
-public class inicioDeTemporada
+public class InicioDeTemporada
 {
       public int horasInPrimavera(int z){
         int resultado=24+(24-z);

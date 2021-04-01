@@ -4,7 +4,7 @@
  * @author (Treen) 
  * @version (1.0)
  */
-public class letraSiguiente
+public class LetraSiguiente
 {
     public char sigLetra2(char letra){
         char res=(char)(letra+1);

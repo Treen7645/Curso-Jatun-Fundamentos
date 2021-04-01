@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio7
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Capicua\ here.\r\n\ \r\n\ @author\ Victor\ Sejas-Treen\r\n\ @version\ 1.0\r\n\ \r\n
+comment1.params=numeroEntero
+comment1.target=int\ mostrarEsquirla(int)
+numComments=2

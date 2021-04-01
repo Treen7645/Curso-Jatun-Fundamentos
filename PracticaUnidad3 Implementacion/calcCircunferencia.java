@@ -4,7 +4,7 @@
  * @author (Treen) 
  * @version (1.0)
  */
-public class calcCircunferencia
+public class CalcCircunferencia
 {
     public double circunferencia(int radio){
         int d=radio*2;
