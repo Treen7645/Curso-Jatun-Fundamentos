@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=UnicornisLibrumMemories
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ UnicornisLibrumMemories\ here.\r\n\ \r\n\ @author\ Vcitor\ Sejas-Treen\r\n\ @version\ 1.0\r\n
+comment1.params=tarea
+comment1.target=UnicornisLibrumMemories(java.lang.String)
+comment2.params=nueva
+comment2.target=java.lang.String\ nuevaTarea(java.lang.String)
+comment3.params=
+comment3.target=void\ tareaConcluida()
+comment4.params=
+comment4.target=java.lang.String\ getTarea()
+numComments=5

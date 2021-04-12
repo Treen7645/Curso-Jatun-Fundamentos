@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=SylvanoCornio
+comment0.text=\r\n\ \r\n\ \r\n\ @author\ Victor\ Sejas-Treen\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=SylvanoCornio()
+comment2.params=
+comment2.target=java.lang.String\ encender()
+comment3.params=
+comment3.target=java.lang.String\ apagar()
+comment4.params=
+comment4.target=java.lang.String\ crearReflejoLagrima()
+comment5.params=cantidad
+comment5.target=java.lang.String\ agregarSavia(int)
+numComments=6

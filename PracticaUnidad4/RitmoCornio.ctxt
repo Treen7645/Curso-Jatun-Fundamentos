@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=RitmoCornio
+comment0.text=\r\n\ \r\n\ \r\n\ @author\ Victor\ Sejas-Treen\r\n\ @version\ 1.0\r\n
+comment1.params=c1\ c2\ c3
+comment1.target=RitmoCornio(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ reproducir()
+comment3.params=
+comment3.target=java.lang.String\ pausar()
+comment4.params=
+comment4.target=void\ cambiar()
+comment5.params=
+comment5.target=java.lang.String\ getCancion()
+numComments=6

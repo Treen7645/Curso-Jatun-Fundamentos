@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=UnicornioTron
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ UnicornioTron\ here.\r\n\ \r\n\ @author\ Victor\ Sejas-Treen\r\n\ @version\ 1.0\r\n
+comment1.params=premio
+comment1.target=UnicornioTron(int)
+comment2.params=
+comment2.target=int\ getPremio()
+comment3.params=n
+comment3.target=java.lang.String\ insertarFicha(int)
+comment4.params=
+comment4.target=int\ generarAleatorio()
+comment5.params=valor
+comment5.target=void\ setPremio(int)
+comment6.params=numero
+comment6.target=java.lang.String\ Juego(int)
+numComments=7

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=EnBuscadelDracoCornio
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ EnBuscadeelDracoCornio\ here.\r\n\ \r\n\ @author\ Victor\ Sejas-treen\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=EnBuscadelDracoCornio()
+comment2.params=
+comment2.target=int\ generarAleatorio()
+comment3.params=ax\ ay
+comment3.target=java.lang.String\ jugar(int,\ int)
+comment4.params=bx\ by
+comment4.target=java.lang.String\ distante(int,\ int)
+comment5.params=
+comment5.target=void\ reiniciar()
+numComments=6
