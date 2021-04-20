@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=AlaSombreDeCipres
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ AlaSombreDeCipres\ here.\r\n\ \r\n\ @author\ Victor\ Sejas-Treen\r\n\ @version\ 1.0\r\n
+comment1.params=inicio\ horas
+comment1.target=AlaSombreDeCipres(int,\ int)
+comment2.params=
+comment2.target=void\ predictorMagnitudesDeSombra()
+numComments=3
