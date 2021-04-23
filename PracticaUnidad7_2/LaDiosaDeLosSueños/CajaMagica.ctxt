@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CajaMagica
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ CajaMagica\ here.\r\n\ \r\n\ @author\ Victor\ Sejas-Treen\r\n\ @version\ 1.0\r\n
+comment1.params=tam
+comment1.target=CajaMagica(int)
+comment2.params=nuevo
+comment2.target=java.lang.String\ guardarSuenio(Suenio)
+comment3.params=
+comment3.target=void\ borrarEspacios()
+comment4.params=
+comment4.target=void\ ordenarPorDia()
+comment5.params=
+comment5.target=java.lang.String\ cumplirSue\u00F1oPorprioridad()
+comment6.params=topic
+comment6.target=java.lang.String\ cumplirSue\u00F1oAleatorio(java.lang.String)
+numComments=7

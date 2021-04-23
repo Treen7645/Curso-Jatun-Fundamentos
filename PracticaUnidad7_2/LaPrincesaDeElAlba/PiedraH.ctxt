@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=PiedraH
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PiedraHelitz\ here.\r\n\ \r\n\ @author\ Victor\ Sejas-Treem\r\n\ @version\ 1.0\r\n
+comment1.params=nombre\ autor
+comment1.target=PiedraH(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=
+comment3.target=java.lang.String\ getAutor()
+comment4.params=
+comment4.target=int\ lic()
+comment5.params=
+comment5.target=int\ lia()
+comment6.params=
+comment6.target=PiedraH\ obtenerCopia()
+numComments=7

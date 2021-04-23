@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Suenio
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Sue\u00F1o\ here.\r\n\ \r\n\ @author\ Victor\ Sejas-Treen\r\n\ @version\ 1.0\r\n
+comment1.params=prio\ top\ desc
+comment1.target=Suenio(int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getPrio()
+comment3.params=
+comment3.target=java.lang.String\ getTop()
+comment4.params=
+comment4.target=java.lang.String\ getDesc()
+comment5.params=
+comment5.target=Suenio\ obtenerCopia()
+numComments=6

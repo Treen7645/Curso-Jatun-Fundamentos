@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=CajaDeMusica
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ CajaDeMusica\ here.\r\n\ \r\n\ @author\ Victor\ Sejas-Treen\r\n\ @version\ 1.0\r\n
+comment1.params=tam
+comment1.target=CajaDeMusica(int)
+comment2.params=name\ autor
+comment2.target=java.lang.String\ agregarCancion(java.lang.String,\ java.lang.String)
+comment3.params=nueva
+comment3.target=java.lang.String\ agregarCan(PiedraH)
+comment4.params=nameCancion
+comment4.target=java.lang.String\ eliminarCancion(java.lang.String)
+comment5.params=
+comment5.target=void\ escucharCancion()
+comment6.params=
+comment6.target=void\ ordenarPorName()
+comment7.params=
+comment7.target=void\ ordenarPorAutor()
+comment8.params=
+comment8.target=void\ borrarEspacios()
+numComments=9
