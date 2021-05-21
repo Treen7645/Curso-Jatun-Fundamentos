@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=name
+comment1.target=Player(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=o
+comment4.target=boolean\ equals(java.lang.Object)
+comment5.params=x
+comment5.target=void\ addMano(UnoCard)
+comment6.params=
+comment6.target=boolean\ ganador()
+comment7.params=y
+comment7.target=void\ dejarCarta(UnoCard)
+comment8.params=
+comment8.target=Player\ copia()
+numComments=9
